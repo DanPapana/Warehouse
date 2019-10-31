@@ -1,0 +1,47 @@
+16:39:10.857340300REMARK Store Aaa created
+16:39:12.644787800REMARK Store Aaa created
+16:55:43.162561600 This is first line
+17:53:15.105398500 This is first line
+17:53:20.145892700 [REMARK] Store Aaaa created
+17:53:35.054302 [REMARK] Warehouse Aaa is deleted
+17:53:45.903698400 [REMARK] Store Wwww created
+17:53:51.467469200 [REMARK] Store Sssss created
+17:53:57.025298700 [REMARK] Store Dddddd created
+17:54:09.045222600 [REMARK] Warehouse Dddddd created
+17:54:11.033115300 [REMARK] Store Dddddd created
+17:54:18.657629300 [REMARK] Van 21231 created
+17:54:29.069914800 [REMARK] Van T-14 created
+17:54:33.770818 [REMARK] Van T-34 created
+17:54:40.394954300 [REMARK] Truck KV-1 created
+17:54:44.069190600 [REMARK] Truck KV-5 created
+17:54:57.785864600 [REMARK] Food item Apple created
+17:55:01.931199500 [REMARK] Food item Snack created
+17:55:09.509269700 [REMARK] Food item Ice-cream created
+17:55:22.070475800 [REMARK] Food item Ice-cream created
+17:55:29.622102 [REMARK] Food item Snack was added into warehouse Dddddd
+17:55:30.159491100 [REMARK] Food item Apple was added into warehouse Dddddd
+17:55:31.554849200 [REMARK] Food item Ice-cream was added into warehouse Dddddd
+17:55:36.515692400 [REMARK] Vehicle 33 was loaded from Warehouse Dddddd
+17:55:37.046461300 [REMARK] Vehicle 33 was loaded from Warehouse Dddddd
+17:55:44.113182900 [REMARK] Vehicle KV-1 was loaded from Warehouse Dddddd
+17:55:45.510252700 [REMARK] Vehicle KV-1 was loaded from Warehouse Dddddd
+17:55:45.751867500 [REMARK] Vehicle KV-1 was loaded from Warehouse Dddddd
+17:55:47.483636200 [REMARK] Vehicle KV-1 was loaded from Warehouse Dddddd
+17:55:47.707038700 [REMARK] Vehicle KV-1 was loaded from Warehouse Dddddd
+17:55:47.896669500 [REMARK] Vehicle KV-1 was loaded from Warehouse Dddddd
+17:55:48.055244900 [REMARK] Vehicle KV-1 was loaded from Warehouse Dddddd
+17:55:49.901194800 [REMARK] Vehicle KV-5 was loaded from Warehouse Dddddd
+17:55:51.767703100 [REMARK] Vehicle 33 was loaded from Warehouse Dddddd
+17:55:54.275312500 [REMARK] Vehicle 21231 was loaded from Warehouse Dddddd
+17:55:57.243362800 [REMARK] Vehicle T-14 was loaded from Warehouse Dddddd
+17:56:19.596243900 [REMARK] Vehicle 33 was unloaded into Store Wwww
+17:56:20.704084800 [REMARK] Vehicle 33 was unloaded into Store Wwww
+17:56:23.357283900 [REMARK] Vehicle 33 was unloaded into Store Wwww
+18:16:14.358128700 This is first line
+11:05:58.262695400 [REMARK] Food item Apple created
+11:06:03.321095 [REMARK] Food item Cream created
+18:28:17.274709400 [WARNING] SOME OF THE FIELDS ARE EMPTY
+18:28:19.436925100 [WARNING] SOME OF THE FIELDS ARE EMPTY
+18:28:32.831487 [REMARK] Store a created
+18:28:37.361381600 [REMARK] Store bbb created
+18:30:06.520206500 [REMARK] Store ccc created
