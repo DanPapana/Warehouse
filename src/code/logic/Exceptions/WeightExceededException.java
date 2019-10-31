@@ -1,4 +1,4 @@
-package src.logic.Exceptions;
+package code.logic.Exceptions;
 
 
 public class WeightExceededException extends Exception {

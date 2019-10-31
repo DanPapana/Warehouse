@@ -1,7 +1,7 @@
-package src.logic.Transport;
+package code.logic.Transport;
 
-import src.logic.Food.FoodItem;
-import src.logic.Route;
+import code.logic.Food.FoodItem;
+import code.logic.Route;
 
 /** @author Slavoj Zizek
  * @version 1

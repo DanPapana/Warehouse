@@ -1,7 +1,7 @@
-package src.logic;
+package code.logic;
 
-import src.logic.Facility.Store;
-import src.logic.Facility.Warehouse;
+import code.logic.Facility.Store;
+import code.logic.Facility.Warehouse;
 
 /** @author Slavoj Zizek
  * @version 1

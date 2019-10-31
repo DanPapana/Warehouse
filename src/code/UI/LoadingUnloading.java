@@ -1,9 +1,9 @@
-package src.UI;
-import src.logic.Facility.Warehouse;
-import src.logic.Facility.Store;
-import src.logic.Transport.Truck;
-import src.logic.Transport.Van;
-import src.logic.Transport.Vehicle;
+package code.UI;
+import code.logic.Facility.Warehouse;
+import code.logic.Facility.Store;
+import code.logic.Transport.Truck;
+import code.logic.Transport.Van;
+import code.logic.Transport.Vehicle;
 
 import javax.swing.*;
 import java.awt.*;

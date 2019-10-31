@@ -1,5 +1,5 @@
-package src.logic;
-import src.UI.MainFrame;
+package code.logic;
+import code.UI.MainFrame;
 
 /** @author Slavoj Zizek Dan Papana
  * @version 1

@@ -1,4 +1,4 @@
-package src.logic;
+package code.logic;
 
 /** @author Slavoj Zizek
  * @version 1

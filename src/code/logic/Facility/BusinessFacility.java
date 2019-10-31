@@ -1,6 +1,6 @@
-package src.logic.Facility;
+package code.logic.Facility;
 
-import src.logic.Location;
+import code.logic.Location;
 
 import java.io.Serializable;
 

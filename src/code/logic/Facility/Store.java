@@ -1,8 +1,8 @@
-package src.logic.Facility;
+package code.logic.Facility;
 
-import src.logic.Transportable;
-import src.logic.Location;
-import src.logic.Transport.Vehicle;
+import code.logic.Transportable;
+import code.logic.Location;
+import code.logic.Transport.Vehicle;
 
 import java.io.Serializable;
 

@@ -1,5 +1,5 @@
-package src.logic.Transport;
-import src.logic.Food.FoodItemType;
+package code.logic.Transport;
+import code.logic.Food.FoodItemType;
 
 import java.io.Serializable;
 

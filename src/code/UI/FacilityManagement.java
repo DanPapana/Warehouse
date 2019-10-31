@@ -1,7 +1,7 @@
-package src.UI;
-import src.logic.Facility.Store;
-import src.logic.Facility.Warehouse;
-import src.logic.Location;
+package code.UI;
+import code.logic.Facility.Store;
+import code.logic.Facility.Warehouse;
+import code.logic.Location;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

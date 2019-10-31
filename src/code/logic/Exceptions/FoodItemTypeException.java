@@ -1,6 +1,6 @@
-package src.logic.Exceptions;
+package code.logic.Exceptions;
 
-import src.logic.Food.FoodItemType;
+import code.logic.Food.FoodItemType;
 
 public class FoodItemTypeException extends Exception {
 

@@ -1,4 +1,4 @@
-package src.logic.Food;
+package code.logic.Food;
 
 public enum FoodItemType {
     FRESH {

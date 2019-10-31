@@ -1,7 +1,7 @@
-package src.UI;
+package code.UI;
 
-import src.logic.Transport.Truck;
-import src.logic.Transport.Van;
+import code.logic.Transport.Truck;
+import code.logic.Transport.Van;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

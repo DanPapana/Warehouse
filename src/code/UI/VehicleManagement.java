@@ -1,7 +1,7 @@
-package src.UI;
-import src.logic.Food.FoodItemType;
-import src.logic.Transport.Truck;
-import src.logic.Transport.Van;
+package code.UI;
+import code.logic.Food.FoodItemType;
+import code.logic.Transport.Truck;
+import code.logic.Transport.Van;
 
 import javax.swing.*;
 import java.awt.*;

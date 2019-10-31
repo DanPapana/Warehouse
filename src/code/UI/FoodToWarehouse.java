@@ -1,6 +1,6 @@
-package src.UI;
-import src.logic.Facility.Warehouse;
-import src.logic.Food.FoodItem;
+package code.UI;
+import code.logic.Facility.Warehouse;
+import code.logic.Food.FoodItem;
 
 import javax.swing.*;
 import java.awt.*;
