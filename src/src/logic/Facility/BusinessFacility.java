@@ -1,6 +1,6 @@
-package si.um.opj.papana.logic.Facility;
+package src.logic.Facility;
 
-import si.um.opj.papana.logic.Location;
+import src.logic.Location;
 
 import java.io.Serializable;
 

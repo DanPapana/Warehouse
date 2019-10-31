@@ -1,5 +1,5 @@
-package si.um.opj.papana.logic;
-import si.um.opj.papana.UI.MainFrame;
+package src.logic;
+import src.UI.MainFrame;
 
 /** @author Slavoj Zizek Dan Papana
  * @version 1

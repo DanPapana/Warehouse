@@ -1,8 +1,8 @@
-package si.um.opj.papana.logic.Facility;
+package src.logic.Facility;
 
-import si.um.opj.papana.logic.Transportable;
-import si.um.opj.papana.logic.Location;
-import si.um.opj.papana.logic.Transport.Vehicle;
+import src.logic.Transportable;
+import src.logic.Location;
+import src.logic.Transport.Vehicle;
 
 import java.io.Serializable;
 

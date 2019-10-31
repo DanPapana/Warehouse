@@ -1,4 +1,4 @@
-package si.um.opj.papana.logic;
+package src.logic;
 
 /** @author Slavoj Zizek
  * @version 1

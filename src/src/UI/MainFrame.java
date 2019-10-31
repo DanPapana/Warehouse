@@ -1,4 +1,4 @@
-package si.um.opj.papana.UI;
+package src.UI;
 
 import javax.swing.*;
 import java.awt.*;

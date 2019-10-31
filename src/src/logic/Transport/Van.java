@@ -1,5 +1,5 @@
-package si.um.opj.papana.logic.Transport;
-import si.um.opj.papana.logic.Food.FoodItemType;
+package src.logic.Transport;
+import src.logic.Food.FoodItemType;
 
 import java.io.Serializable;
 

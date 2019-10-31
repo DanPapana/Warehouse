@@ -1,7 +1,7 @@
-package si.um.opj.papana.logic;
+package src.logic;
 
-import si.um.opj.papana.logic.Facility.Store;
-import si.um.opj.papana.logic.Facility.Warehouse;
+import src.logic.Facility.Store;
+import src.logic.Facility.Warehouse;
 
 /** @author Slavoj Zizek
  * @version 1

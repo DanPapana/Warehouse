@@ -1,6 +1,6 @@
-package si.um.opj.papana.logic.Exceptions;
+package src.logic.Exceptions;
 
-import si.um.opj.papana.logic.Food.FoodItemType;
+import src.logic.Food.FoodItemType;
 
 public class FoodItemTypeException extends Exception {
 

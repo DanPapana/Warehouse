@@ -1,6 +1,6 @@
-package si.um.opj.papana.UI;
-import si.um.opj.papana.logic.Food.FoodItem;
-import si.um.opj.papana.logic.Food.FoodItemType;
+package src.UI;
+import src.logic.Food.FoodItem;
+import src.logic.Food.FoodItemType;
 
 import javax.swing.*;
 import java.awt.*;

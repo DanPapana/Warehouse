@@ -1,9 +1,9 @@
-package si.um.opj.papana.UI;
-import si.um.opj.papana.logic.Facility.Warehouse;
-import si.um.opj.papana.logic.Facility.Store;
-import si.um.opj.papana.logic.Transport.Truck;
-import si.um.opj.papana.logic.Transport.Van;
-import si.um.opj.papana.logic.Transport.Vehicle;
+package src.UI;
+import src.logic.Facility.Warehouse;
+import src.logic.Facility.Store;
+import src.logic.Transport.Truck;
+import src.logic.Transport.Van;
+import src.logic.Transport.Vehicle;
 
 import javax.swing.*;
 import java.awt.*;

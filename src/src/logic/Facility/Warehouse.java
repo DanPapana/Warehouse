@@ -1,13 +1,13 @@
-package si.um.opj.papana.logic.Facility;
+package src.logic.Facility;
 
-import si.um.opj.papana.logic.*;
-import si.um.opj.papana.logic.Exceptions.CapacityExceededException;
-import si.um.opj.papana.logic.Exceptions.FoodItemTypeException;
-import si.um.opj.papana.logic.Exceptions.VolumeExceededException;
-import si.um.opj.papana.logic.Exceptions.WeightExceededException;
-import si.um.opj.papana.logic.Food.FoodItem;
+import src.logic.*;
+import src.logic.Exceptions.CapacityExceededException;
+import src.logic.Exceptions.FoodItemTypeException;
+import src.logic.Exceptions.VolumeExceededException;
+import src.logic.Exceptions.WeightExceededException;
+import src.logic.Food.FoodItem;
 
-import si.um.opj.papana.logic.Transport.*;
+import src.logic.Transport.*;
 
 import java.io.Serializable;
 import java.time.LocalDate;

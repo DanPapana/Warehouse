@@ -1,4 +1,4 @@
-package si.um.opj.papana.logic.Food;
+package src.logic.Food;
 
 import java.time.LocalDate;
 

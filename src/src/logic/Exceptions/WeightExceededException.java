@@ -1,4 +1,4 @@
-package si.um.opj.papana.logic.Exceptions;
+package src.logic.Exceptions;
 
 
 public class WeightExceededException extends Exception {

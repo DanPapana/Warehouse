@@ -1,7 +1,7 @@
-package si.um.opj.papana.logic.Transport;
+package src.logic.Transport;
 
-import si.um.opj.papana.logic.Food.FoodItem;
-import si.um.opj.papana.logic.Route;
+import src.logic.Food.FoodItem;
+import src.logic.Route;
 
 /** @author Slavoj Zizek
  * @version 1

@@ -1,4 +1,4 @@
-package si.um.opj.papana.logic.Transport;
+package src.logic.Transport;
 
 import java.io.Serializable;
 

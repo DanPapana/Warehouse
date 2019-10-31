@@ -1,7 +1,7 @@
-package si.um.opj.papana.UI;
+package src.UI;
 
-import si.um.opj.papana.logic.Transport.Truck;
-import si.um.opj.papana.logic.Transport.Van;
+import src.logic.Transport.Truck;
+import src.logic.Transport.Van;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

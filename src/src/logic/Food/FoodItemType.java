@@ -1,4 +1,4 @@
-package si.um.opj.papana.logic.Food;
+package src.logic.Food;
 
 public enum FoodItemType {
     FRESH {
